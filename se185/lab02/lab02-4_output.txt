@@ -1,0 +1,14 @@
+Problem a = 8152
+Problem b = 27361080
+Problem c = 81.00
+Problem d = 33.73
+Problem e = 21
+Problem f = 2
+Problem g = 2.00
+Problem h = 21.00
+Problem i = 22.00
+Problem j = 2
+Problem k = 22.00
+The area of a circle with circumference 23.567000 is 44.197605
+14 feet is 4.267200 meters
+76 Fahrenheit is 24.444444 Celsius

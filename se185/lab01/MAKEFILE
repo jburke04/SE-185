@@ -1,0 +1,2 @@
+lab01-1: lab01-1.c
+	gcc -Wall -Werror lab01-1.c -o lab01-1 -lm
